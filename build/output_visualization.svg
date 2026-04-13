@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="-16.5 -16.5 333 633">
+	<g>
+		<g>
+			<polygon points="10 285 12.6002 277.72 15.7203 279.8 " stroke="#000000" />
+			<path fill="none" d=" M200,0 L10,285" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="295 285 290.85 278.478 294.407 277.292 " stroke="#000000" />
+			<path fill="none" d=" M200,0 L295,285" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="285 300 277.5 301.875 277.5 298.125 " stroke="#000000" />
+			<path fill="none" d=" M0,300 L285,300" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="190 585 184.28 579.8 187.4 577.72 " stroke="#000000" />
+			<path fill="none" d=" M0,300 L190,585" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="205 585 205.593 577.292 209.15 578.478 " stroke="#000000" />
+			<path fill="none" d=" M300,300 L205,585" stroke="#000000" />
+		</g>
+	</g>
+	<g>
+		<rect x="185" y="-15" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="200" y="0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">0</text>
+	</g>
+	<g>
+		<rect x="-15" y="285" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="0" y="300" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1</text>
+	</g>
+	<g>
+		<rect x="285" y="285" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="300" y="300" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2</text>
+	</g>
+	<g>
+		<rect x="185" y="585" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="200" y="600" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3</text>
+	</g>
+</svg>

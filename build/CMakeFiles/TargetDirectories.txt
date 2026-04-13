@@ -1,0 +1,3 @@
+/Users/bshen/Documents/c++/ogdf/build/CMakeFiles/solver.dir
+/Users/bshen/Documents/c++/ogdf/build/CMakeFiles/edit_cache.dir
+/Users/bshen/Documents/c++/ogdf/build/CMakeFiles/rebuild_cache.dir

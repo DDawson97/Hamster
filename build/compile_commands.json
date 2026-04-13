@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/bshen/Documents/c++/ogdf/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -isystem /Users/bshen/ogdf/include/ogdf-release -isystem /Users/bshen/ogdf/include -isystem /Users/bshen/ogdf/include/coin -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/solver.dir/simulated_annealing.cpp.o -c /Users/bshen/Documents/c++/ogdf/simulated_annealing.cpp",
+  "file": "/Users/bshen/Documents/c++/ogdf/simulated_annealing.cpp",
+  "output": "CMakeFiles/solver.dir/simulated_annealing.cpp.o"
+}
+]

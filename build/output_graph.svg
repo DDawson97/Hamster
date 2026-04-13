@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="19 19 43.9308 60.5811">
+	<g>
+		<g>
+			<polygon points="22 55.5811 25 54.8311 25 56.3311 " stroke="#000000" />
+			<path fill="none" d=" M60.9308,55.5811 L22,55.5811" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="40.388 22 39.5376 24.9731 38.2385 24.2231 " stroke="#000000" />
+			<path fill="none" d=" M21,55.5811 L40.388,22" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="60.3534 54.5811 58.2039 52.358 59.5029 51.608 " stroke="#000000" />
+			<path fill="none" d=" M40.9654,21 L60.3534,54.5811" stroke="#000000" />
+		</g>
+	</g>
+	<g>
+		<rect x="59.930770899664047" y="54.58106199180547" width="2" height="2" />
+	</g>
+	<g>
+		<rect x="20.000000000000004" y="54.581061991805463" width="2" height="2" />
+	</g>
+	<g>
+		<rect x="39.965385449832027" y="19.999999999999996" width="2" height="2" />
+	</g>
+	<g>
+		<rect x="20" y="76.58106199180547" width="2" height="2" />
+	</g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="-16.5 -16.5 233 433">
+	<g>
+		<g>
+			<polygon points="7.5 185 9.17705 177.453 12.5312 179.13 " stroke="#000000" />
+			<path fill="none" d=" M100,0 L7.5,185" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="192.5 185 187.469 179.13 190.823 177.453 " stroke="#000000" />
+			<path fill="none" d=" M100,0 L192.5,185" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="185 200 177.5 201.875 177.5 198.125 " stroke="#000000" />
+			<path fill="none" d=" M0,200 L185,200" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="92.5 385 87.4688 379.13 90.8229 377.453 " stroke="#000000" />
+			<path fill="none" d=" M0,200 L92.5,385" stroke="#000000" />
+		</g>
+		<g>
+			<polygon points="107.5 385 109.177 377.453 112.531 379.13 " stroke="#000000" />
+			<path fill="none" d=" M200,200 L107.5,385" stroke="#000000" />
+		</g>
+	</g>
+	<g>
+		<rect x="85" y="-15" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="100" y="0" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">0</text>
+	</g>
+	<g>
+		<rect x="-15" y="185" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="0" y="200" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1</text>
+	</g>
+	<g>
+		<rect x="185" y="185" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="200" y="200" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2</text>
+	</g>
+	<g>
+		<rect x="85" y="385" width="30" height="30" fill="#ADD8E6" stroke-width="1.000000px" stroke="#000000" />
+		<text x="100" y="400" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3</text>
+	</g>
+</svg>
